@@ -1,0 +1,4 @@
+com/connector/ConnectorEventListenerProviderFactory.class
+com/connector/CustomWellKnownEndpointProviderFactory.class
+com/connector/CustomWellEndpointProvider.class
+com/connector/ConnectorEventListenerProvider.class
