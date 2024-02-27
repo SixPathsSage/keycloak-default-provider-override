@@ -9,3 +9,5 @@ services:
     environment:
       KEYCLOAK_ADMIN: admin
       KEYCLOAK_ADMIN_PASSWORD: password
+      DEBUG: true
+      DEBUG_PORT: "*:8000"
